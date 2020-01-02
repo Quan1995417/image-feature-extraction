@@ -1,7 +1,7 @@
 #Feature Descriptors for Images
 The intent of this project is to find the following feature descriptors of images - first 3 color moments - Mean (first), Variance (Second), Skewness (Third) and SIFT (Scale Invariant feature Transform). The feature descriptors are then stored in SQLite database. Using these feature descriptors k similar images are found.
 
-###Prerequisites
+### Prerequisites
 
 Following packages need to be installed:
 
